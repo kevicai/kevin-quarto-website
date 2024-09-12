@@ -2,8 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Index",
+    "title": "Kevin Cai",
     "section": "",
-    "text": "Quarto site"
+    "text": "Hello! I’m Kevin, a passionate software developer with an interest in static programming."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a fourth-year Computer Science student at the Univeristy of Toronto."
   }
 ]
