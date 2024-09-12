@@ -1,0 +1,9 @@
+navbar:
+    right:
+        - href: index.qmd
+          text: Home
+        - about.qmd
+  
+project:
+  type: website 
+  output-dir: docs
