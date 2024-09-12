@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Kevin Cai"
 ---
 
-Quarto site
+Hello! I’m Kevin, a passionate software developer with an interest in static programming. 

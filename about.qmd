@@ -1,3 +1,4 @@
 ---
-title: "About"
+title: "About Me"
 ---
+I'm a fourth-year Computer Science student at the Univeristy of Toronto.
